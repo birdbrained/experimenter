@@ -1,4 +1,5 @@
 .git
+.git/
 .gitignore
 LICENSE
 VERSION
@@ -7,3 +8,4 @@ Changelog.md
 Makefile
 docker-compose.yml
 docs
+node_modules

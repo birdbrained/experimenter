@@ -1,3 +1,6 @@
 [submodule "lib"]
 	path = lib
 	url = https://github.com/CenterForOpenScience/exp-addons.git
+[submodule "jam-setup"]
+	path = jam-setup
+	url = git@github.com:birdbrained/jam-setup.git

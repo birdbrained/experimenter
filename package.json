@@ -27,7 +27,6 @@
     "broccoli-babel-transpiler": "^5.6.1",
     "broccoli-funnel": "^1.1.0",
     "broccoli-merge-trees": "^1.1.1",
-    "broccoli-sass": "^0.7.0",
     "ember-ajax": "^2.0.1",
     "ember-bootstrap": "^0.11.1",
     "ember-bootstrap-datetimepicker": "1.0.4",
@@ -80,6 +79,7 @@
     "request": "^2.69.0",
     "request-promise": "^2.0.0",
     "rimraf": "^2.5.2",
+    "sass": "^1.15.1",
     "yargs": "^4.2.0"
   },
   "eslintConfig": {
@@ -100,6 +100,7 @@
   },
   "dependencies": {
     "dotenv": "^2.0.0",
+    "ember-cli-sass": "^8.0.1",
     "ember-radio-buttons": "^4.0.1"
   },
   "jscsConfig": {
